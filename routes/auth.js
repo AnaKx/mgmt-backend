@@ -1,5 +1,5 @@
 const express = require('express');
-const argon2 = require('argon2');
+const argon2 = require('@node-rs/argon2');
 const pool = require('../config/database');
 const jwt = require('jsonwebtoken');
 
