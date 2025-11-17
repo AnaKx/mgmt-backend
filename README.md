@@ -90,4 +90,4 @@ requireAdmin   // Ensures user has admin privileges
 
 ## 🔗 Related Projects
 
-- [mgmt-ios](https://github.com/yourusername/mgmt-ios) - iOS frontend application
+- [mgmt-ios](https://github.com/anakx/mgmt-ios) - iOS frontend application
